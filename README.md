@@ -1,4 +1,4 @@
-### :computer: Working At Var
+## :computer: Working At Var
 
 Olá, bem-vindo(a) ao nosso do Grupo de TCC da Escola ITB - Brasílio Flores de Azevedo, do Curso Técnico de Informática.
 
@@ -9,6 +9,12 @@ Nosso projeto consiste em uma plataforma online, onde os clientes poderão fazer
 Estamos muito empolgados com esse projeto e estamos comprometidos em levá-lo ainda mais longe. Acreditamos que nosso projeto pode ser uma solução valiosa para muitas pessoas, especialmente em tempos de pandemia, onde a necessidade de se manter em casa é cada vez mais importante.
 
 Agradecemos pela sua visita ao nosso repositório e esperamos que nosso projeto possa inspirar outras pessoas a buscar soluções inovadoras e criativas para as necessidades do mundo atual.
+
+### Integrantes do Grupo
+- <a href="https://github.com/ErikaSoares1" target="_blank">Erika</a>
+- <a href="https://github.com/kaiqueolinvs" target="_blank">Kaique</a>
+- <a href="https://github.com/lisboa-leo" target="_blank">Leonardo</a>
+- <a href="https://github.com/Renan573" target="_blank">Renan</a>
 
 
 <div align="left">
