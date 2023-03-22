@@ -11,10 +11,13 @@ Estamos muito empolgados com esse projeto e estamos comprometidos em levá-lo ai
 Agradecemos pela sua visita ao nosso repositório e esperamos que nosso projeto possa inspirar outras pessoas a buscar soluções inovadoras e criativas para as necessidades do mundo atual.
 
 ### Integrantes do Grupo
-- <a href="https://github.com/ErikaSoares1" target="_blank">Erika</a>
-- <a href="https://github.com/kaiqueolinvs" target="_blank">Kaique</a>
-- <a href="https://github.com/lisboa-leo" target="_blank">Leonardo</a>
-- <a href="https://github.com/Renan573" target="_blank">Renan</a>
+- <a href="https://github.com/ErikaSoares1">Erika</a>
+- <a href="#" target="_blank">Gabriela</a>
+- <a href="#" target="_blank">Isabela</a>
+- <a href="#">Eduardo</a>
+- <a href="https://github.com/kaiqueolinvs">Kaique</a>
+- <a href="https://github.com/lisboa-leo">Leonardo</a>
+- <a href="https://github.com/Renan573">Renan</a>
 
 
 <div align="center">
