@@ -1,4 +1,4 @@
-### Working At Var
+### :computer: Working At Var
 
 Olá, bem-vindo(a) ao nosso do Grupo de TCC da Escola ITB - Brasílio Flores de Azevedo, do Curso Técnico de Informática.
 
